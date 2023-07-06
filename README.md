@@ -11,7 +11,7 @@ This project implements a simple calculator in C++, allowing users to perform ba
 - [License](#license)
 
 ## Introduction
-The calculator project consists of a C++ program that utilizes the `mycalc` class defined in the `calc.h` header file. The program prompts the user to enter two numbers and performs various arithmetic operations on them using the `mycalc` class methods.
+The calculator project consists of a C++ program that utilizes the `mycalc` class defined in the `calculator.h` header file. The program prompts the user to enter two numbers and performs various arithmetic operations on them using the `mycalc` class methods.
 
 ## Installation
 To use this calculator project, follow the steps below:
@@ -43,7 +43,7 @@ If you don't have a C++ compiler installed locally, you can also run the code on
 
 1. Visit [OnlineGDB](https://www.onlinegdb.com/) or a similar online C++ compiler platform.
 2. Create a new C++ project or open an existing one.
-3. Copy and paste the code from the repository's `main.cpp` and `calc.h` files into the respective files in the online compiler.
+3. Copy and paste the code from the repository's `main.cpp` and `calculator.h` files into the respective files in the online compiler.
 4. Select C++ as the language for compilation.
 5. Click the "Run" or "Compile" button to execute the code.
 6. Enter the first and second numbers when prompted.
